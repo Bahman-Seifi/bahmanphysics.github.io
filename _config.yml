@@ -1,6 +1,8 @@
-title: Minimal theme
+title: "Bahman Seifi's Website"
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: "Biophysics, Computational Modeling, and Teaching"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+url: "https://yourusername.github.io"
+
